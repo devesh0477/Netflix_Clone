@@ -1,10 +1,23 @@
 # Netflix Clone App
 
-This is a Netflix clone App and it is built by using React. It fetches the data from TMDB (The Movie Database) API. It also displays the movie trailers which is fetched from Youtube.
+This is an 100% mobile and Website reponsive Netflix clone App.  
+It app is build bt using React. It fetches the data from TMDB (The Movie Database) API and it also displays the movie trailers which is fetched from Youtube.
 
-## Available Scripts
+## Author
 
-In the project directory, you can run:
+Devesh Verma (devesh0477)
+
+## Demo 
+
+The app is deployed using Firebase at: https://netflix-clone-acd32.web.app
+
+## Screenshots 
+
+<img width="781" alt="Screen Shot 2021-07-02 at 2 58 16 PM" src="https://user-images.githubusercontent.com/55842034/124318580-db65af00-db46-11eb-8dad-cf6d7a16228e.png">
+
+<img width="781" alt="Screen Shot 2021-07-02 at 2 58 29 PM" src="https://user-images.githubusercontent.com/55842034/124318613-e4568080-db46-11eb-9209-51697016c3cb.png">
+
+***************************************************************************************************
 
 ### `npm start`
 
