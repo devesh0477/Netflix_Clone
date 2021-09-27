@@ -6,7 +6,7 @@ None of the data is hard-coded in this app, it fetches all the live data directl
 
 ## Author
 
-Devesh Verma (devesh0477)
+Devesh Verma 
 
 ## Demo 
 
